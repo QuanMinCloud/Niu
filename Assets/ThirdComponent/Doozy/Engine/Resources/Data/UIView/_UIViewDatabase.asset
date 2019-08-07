@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 889794c411054f7ca8e6fbdc6728c846, type: 3}
+  m_Name: _UIViewDatabase
+  m_EditorClassIdentifier: 
+  DatabaseType: 2
+  CategoryNames:
+  - Custom
+  - General
+  - Menu
+  - Game
+  - Test
+  Categories:
+  - {fileID: 11400000, guid: e7c664591f1509248899682d374d0666, type: 2}
+  - {fileID: 11400000, guid: 95865186c60655d42b5a81ba39ad76b2, type: 2}
+  - {fileID: 11400000, guid: 921b4c3a4bafc9e4a9155f396d1e87ce, type: 2}
+  - {fileID: 11400000, guid: 0ab4302d5b747ca46aa0d5c7e6b0d8f9, type: 2}

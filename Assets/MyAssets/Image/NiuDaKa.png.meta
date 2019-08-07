@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: 621bf56b159a3bc49909c5e56db5fc85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3723858168774284365
+    second: NiuDaKa_0
+  - first:
+      213: 8097580012377622542
+    second: NiuDaKa_1
+  - first:
+      213: 152357724912540172
+    second: NiuDaKa_2
+  - first:
+      213: -2891902862553509667
+    second: NiuDaKa_3
+  - first:
+      213: 6004728850076967379
+    second: NiuDaKa_4
+  - first:
+      213: -5506078069735011781
+    second: NiuDaKa_5
+  - first:
+      213: -3016676730254715904
+    second: NiuDaKa_6
+  - first:
+      213: 2015515640619779103
+    second: NiuDaKa_7
+  - first:
+      213: 6391694577935640754
+    second: NiuDaKa_8
+  - first:
+      213: 2223101232511834567
+    second: NiuDaKa_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NiuDaKa_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 316
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eeee546d9a9cf41a437019d9222aab
+      internalID: 3723858168774284365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NiuDaKa_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 291
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ed562c0988e7446acba0fbee4d6cb7
+      internalID: 8097580012377622542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NiuDaKa_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 220
+        width: 23
+        height: 71
+      alignment: 9
+      pivot: {x: 0.43998536, y: 0.9471513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d880fe6464e342bce21dfd849caa3
+      internalID: 152357724912540172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NiuDaKa_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 268
+        width: 35
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5788766, y: 0.25460747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05989cf6ffc464a8dd91c7e2af9d4b
+      internalID: -2891902862553509667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NiuDaKa_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 235
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1248199421944d45bb7ec7653c4d14a
+      internalID: 6004728850076967379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NiuDaKa_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 240
+        width: 27
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47443926, y: 0.631461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8665831c25161b1489d66e1c3b81bb36
+      internalID: -5506078069735011781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NiuDaKa_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 136
+        width: 33
+        height: 67
+      alignment: 9
+      pivot: {x: 0.416343, y: 0.9120408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98abe7774f7a0544b8dd0d103490875
+      internalID: -3016676730254715904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NiuDaKa_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 70
+        height: 32
+      alignment: 9
+      pivot: {x: 0.12533744, y: 0.82351637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d27a4d750bfa047b284cbc1b56e3de
+      internalID: 2015515640619779103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NiuDaKa_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 157
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0.3977537, y: 0.6061801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64239eb55a2e0f4b9977ede4ceb952d
+      internalID: 6391694577935640754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NiuDaKa_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 57
+        width: 59
+        height: 69
+      alignment: 9
+      pivot: {x: 0.464907, y: 0.8800928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce59984ce0da84a4e9a46913bb1c8be7
+      internalID: 2223101232511834567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aaed22f0cb010734e9c6926723125d30
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
